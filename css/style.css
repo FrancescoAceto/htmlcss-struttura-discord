@@ -131,6 +131,19 @@ nav #inner ul{
     gap: 100px;
 }
 
+#inner5{
+    padding-top: 120px;
+    height: 500px;
+    width: 100%;
+
+    display: flex;
+    flex-direction: row;
+
+    background-color: blue;
+}
+
+
+
 
 
 
