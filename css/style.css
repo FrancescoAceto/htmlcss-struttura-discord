@@ -8,6 +8,7 @@
     max-width: 1000px;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 200px;
 }
 
 
@@ -90,6 +91,45 @@ nav #inner ul{
     color: white;
 }
 
+#inner3{
+    padding-top: 120px;
+    height: 400px;
+    width: 100%;
+
+    display: flex;
+    flex-direction: row;
+    gap: 150px;
+
+    background-color: rgb(255, 255, 255);
+}
+
+#big-img{
+    width: 50%;
+    height: 300px;
+    background-color: aqua;
+    text-align: center;
+}
+
+#text-sec{
+    width: 50%;
+    height: 375px;
+    background-color: aqua;
+}
+
+#Title2{
+    font-size: 50px;
+    margin-bottom: 30px;
+}
+
+#paragraph2{
+    font-size: 20px;
+}
+
+#inner4{
+    display: flex;
+    flex-direction: column;
+    gap: 100px;
+}
 
 
 
