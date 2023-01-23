@@ -10,9 +10,6 @@
     margin-right: auto;
 }
 
-nav{
-
-}
 
 #inner{
     height: 80px;
@@ -33,6 +30,7 @@ nav #inner ul{
     width: 100px;
     height: 70px;
     background-color: aqua;
+    text-align: center;
 }
 
 #links ul{
@@ -50,3 +48,50 @@ nav #inner ul{
 
     background-color: rgb(255, 255, 255);
 }
+
+#inner2{
+    padding-top: 120px;
+    height: 400px;
+    width: 100%;
+
+    display: flex;
+    flex-direction: column;
+
+    background-color: blue;
+}
+
+#Title{
+    color: white;
+    font-size: 23px;
+}
+
+#paragraph{
+    color: white;
+    text-align: center;
+}
+
+#links2 ul{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    gap: 27px;
+}
+
+#whitebutton{
+    background-color: white;
+    padding: 15px;
+    border-radius: 25px;
+}
+
+#blackbutton{
+    background-color: black;
+    padding: 15px;
+    border-radius: 25px;
+    color: white;
+}
+
+
+
+
+
+
